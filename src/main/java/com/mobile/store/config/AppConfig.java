@@ -1,7 +1,5 @@
 package com.mobile.store.config;
 
-import javax.sql.DataSource;
-
 import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -53,8 +51,5 @@ public class AppConfig extends WebMvcConfigurerAdapter {
 				"/static/");
 	}
 
-	@Bean
-	public DataSource getDataSource(){
-		BasicDa
-	}
+
 }
