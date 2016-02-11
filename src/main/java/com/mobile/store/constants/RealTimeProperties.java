@@ -1,6 +1,6 @@
 package com.mobile.store.constants;
 
-public abstract class RealTimePropeties {
+public abstract class RealTimeProperties {
 	public static final String DB_DRIVER_NAME = "db.driver.name";
 	public static final String DB_URL = "db.url";
 	public static final String DB_USERNAME = "db.username";

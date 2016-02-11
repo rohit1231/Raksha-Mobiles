@@ -1,9 +1,9 @@
 package com.mobile.store.config;
 
-import static com.mobile.store.constants.RealTimePropeties.DB_DRIVER_NAME;
-import static com.mobile.store.constants.RealTimePropeties.DB_PASSWORD;
-import static com.mobile.store.constants.RealTimePropeties.DB_URL;
-import static com.mobile.store.constants.RealTimePropeties.DB_USERNAME;
+import static com.mobile.store.constants.RealTimeProperties.DB_DRIVER_NAME;
+import static com.mobile.store.constants.RealTimeProperties.DB_PASSWORD;
+import static com.mobile.store.constants.RealTimeProperties.DB_URL;
+import static com.mobile.store.constants.RealTimeProperties.DB_USERNAME;
 
 import java.util.Properties;
 
